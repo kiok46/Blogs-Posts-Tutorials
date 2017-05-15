@@ -1,4 +1,5 @@
 # Blogs-Posts-Tutorials
+If these ever helped you out, then do shoot me an email or leave a star at this repo. That would really make my day. :)
 
 ## CodeMentor [(Profile)](https://www.codementor.io/kiok46)
 
