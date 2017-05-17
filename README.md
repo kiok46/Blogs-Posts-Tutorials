@@ -18,3 +18,8 @@ If these ever helped you out, then do shoot me an email or leave a star at this 
     - [First and Second Week of GSoC](https://kiok46blog.wordpress.com/2016/06/04/first-and-second-week-of-gsoc/)
     - [After Mid-Term Evaluation](https://kiok46blog.wordpress.com/2016/07/19/after-mid-term-evaluation/)
     - [Before End-Term Evaluation](https://kiok46blog.wordpress.com/2016/08/15/before-end-term-evaluation/)
+
+## GitHub
+
+-  [Wrapping-Cpp-using-Cython](https://github.com/kiok46/Wrapping-Cpp-using-Cython)
+-  [Wrapping-C-using-Cython](https://github.com/kiok46/Wrapping-C-using-Cython)
