@@ -1,0 +1,34 @@
+<Theming>:
+    spacing: 50
+    padding: 10, 10
+    CustomButton:
+        text: "Button"
+    BoxLayout:
+        orientation: "vertical"
+        ProgressBar:
+            value: 25
+        ProgressBar:
+            value: 50
+        ProgressBar:
+            value: 75
+    BoxLayout:
+        orientation: "vertical"
+        CustomCheckBox:
+        CustomCheckBox:
+        CustomCheckBox:
+
+
+<ProgressBar>:
+    canvas:
+        Color:
+            rgb: 1, 1, 1
+        BorderImage:
+            border: (12, 12, 12, 12)
+            pos: self.x, self.center_y - 12
+            size: self.width, 24
+            source: 'atlas://textures/red-lightgrey/myatlas/progressbar_background'
+        BorderImage:
+            border: [int(min(self.width * (self.value / float(self.max)) if self.max else 0, 12))] * 4
+            pos: self.x, self.center_y - 12
+            size: self.width * (self.value / float(self.max)) if self.max else 0, 24
+            source: 'atlas://textures/red-lightgrey/myatlas/progressbar'
