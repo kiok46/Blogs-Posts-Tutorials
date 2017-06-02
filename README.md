@@ -8,6 +8,8 @@ If these ever helped you out, then do shoot me an email or leave a star at this 
 -  [Plyer: Platform independent compatibility layer](https://www.codementor.io/kiok46/plyer-platform-independent-compatibility-layer-6bz32colx)
 -  [Beginner Kivy Tutorial: Basic Crash Course for Apps in Kivy](https://www.codementor.io/kiok46/beginner-kivy-tutorial-basic-crash-course-for-apps-in-kivy-y2ubiq0gz)
     - [Code](https://github.com/kiok46/Blogs-Posts-Tutorials/tree/master/Basic-App)
+-  [Texture management in Kivy using atlas](https://www.codementor.io/kiok46/theming-in-kivy-0-yt8c94mbb)
+    - [Code](https://github.com/kiok46/Blogs-Posts-Tutorials/tree/master/Texture-atlas)
 
 
 ## WordPress
