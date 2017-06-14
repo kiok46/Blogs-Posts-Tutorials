@@ -23,5 +23,6 @@ If these ever helped you out, then do shoot me an email or leave a star at this 
 
 ## GitHub
 
+-  [Redux Setup](https://gist.github.com/kiok46/724320960a3f4c6f81612d63bfa9b218)
 -  [Wrapping-Cpp-using-Cython](https://github.com/kiok46/Wrapping-Cpp-using-Cython)
 -  [Wrapping-C-using-Cython](https://github.com/kiok46/Wrapping-C-using-Cython)
