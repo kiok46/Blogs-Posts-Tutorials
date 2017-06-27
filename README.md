@@ -14,6 +14,8 @@ If these ever helped you out, then do shoot me an email or leave a star at this 
 
 ## GitHub
 
+-  [Search HistoryCard List like in DuckDuckGo app.](https://gist.github.com/kiok46/74a97fbf34ecfd188544f3b676164c56)
+-  [Cool cards, with overlay buttons like in DuckDuckGo app.](https://gist.github.com/kiok46/0ca892d2b377827098937f0d0b2daf9e)
 -  [Custom Tabs in React-Navigation) values.](https://gist.github.com/kiok46/eb446d86210707e836603258528fcf3c)
 -  [Setup AsyncStorage and store boolean(true/false) values.](https://gist.github.com/kiok46/421dbc17843212118d78c2fe2cd35c2c)
 -  [Action Creators and Reducers](https://gist.github.com/kiok46/eed0dd78719405b1ccad12edeb1139af)
