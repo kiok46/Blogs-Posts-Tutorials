@@ -14,6 +14,8 @@ If these ever helped you out, then do shoot me an email or leave a star at this 
 
 ## GitHub
 
+-  [NoItemComponent](https://gist.github.com/kiok46/7f183b4b2556b7151fb811bfa8e5dbb0)
+-  [Change the Color of Custom tabs when they change.](https://gist.github.com/kiok46/88bb4eccc3bebebef6253a5ea87691b8)
 -  [Search HistoryCard List like in DuckDuckGo app.](https://gist.github.com/kiok46/74a97fbf34ecfd188544f3b676164c56)
 -  [Cool cards, with overlay buttons like in DuckDuckGo app.](https://gist.github.com/kiok46/0ca892d2b377827098937f0d0b2daf9e)
 -  [Custom Tabs in React-Navigation) values.](https://gist.github.com/kiok46/eb446d86210707e836603258528fcf3c)
