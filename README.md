@@ -25,6 +25,9 @@ If these ever helped you out, then do shoot me an email or leave a star at this 
     -  [Redux Setup](https://gist.github.com/kiok46/724320960a3f4c6f81612d63bfa9b218)
 -  FoldView
     -  [Unfolding FoldView](https://gist.github.com/kiok46/06b3ef62590a5447494eeca0f159be58)
+-  What3Words
+    -  [Customize Drawer (React-Navigation)](https://gist.github.com/kiok46/260d062cfbdb931eb9c214637f2cfb59)
+
 -  [Wrapping-Cpp-using-Cython](https://github.com/kiok46/Wrapping-Cpp-using-Cython)
 -  [Wrapping-C-using-Cython](https://github.com/kiok46/Wrapping-C-using-Cython)
 
