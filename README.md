@@ -28,6 +28,9 @@ If these ever helped you out, then do shoot me an email or leave a star at this 
 -  What3Words App
     -  [Customize Drawer (React-Navigation)](https://gist.github.com/kiok46/260d062cfbdb931eb9c214637f2cfb59)
 
+-  Chain React Conf. 2017
+    -  [Bridge](https://gist.github.com/kiok46/28743cd78fdd864322c12306eef0cff2)
+
 -  Ignite & Reactotron
     -  [ignite_and_reactatron](https://gist.github.com/kiok46/098e2a846880ec2e451157a0f011ab0e)
 
