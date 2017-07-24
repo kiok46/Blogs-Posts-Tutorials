@@ -36,7 +36,8 @@ If these ever helped you out, then do shoot me an email or leave a star at this 
 
 -  Floating ActionButton
     - [Understanding how it works](https://gist.github.com/kiok46/ba4b9d93025070d166b1cebc873a0697)
-
+-  SwipeDeck
+    - [Animation and PanResponder](https://gist.github.com/kiok46/8e4748fc2d875feef39f72ccbde6e583)
 -  [Wrapping-Cpp-using-Cython](https://github.com/kiok46/Wrapping-Cpp-using-Cython)
 -  [Wrapping-C-using-Cython](https://github.com/kiok46/Wrapping-C-using-Cython)
 
