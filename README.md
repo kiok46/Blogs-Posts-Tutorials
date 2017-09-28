@@ -10,7 +10,7 @@ If these ever helped you out, then do shoot me an email or leave a star at this 
     - [Code](https://github.com/kiok46/Blogs-Posts-Tutorials/tree/master/Basic-App)
 -  [Texture management in Kivy using atlas](https://www.codementor.io/kiok46/theming-in-kivy-0-yt8c94mbb)
     - [Code](https://github.com/kiok46/Blogs-Posts-Tutorials/tree/master/Texture-atlas)
-
+-  [Redux, Store, Actions, Reducers and logger: Get Started and a little further](https://www.codementor.io/kiok46/redux-store-actions-reducers-and-logger-get-started-b35h1pvpc)
 
 ## GitHub
 
